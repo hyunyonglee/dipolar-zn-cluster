@@ -14,5 +14,4 @@ analysis/
 .vscode/
 
 # files
-field_scan.jl
 test.jl
