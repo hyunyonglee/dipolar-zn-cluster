@@ -1,0 +1,18 @@
+# Jupyter Notebook
+*.ipynb
+
+# Miscellaneous
+*.txt
+*.h5
+*.log
+.DS_Store
+
+
+# folders
+data/
+analysis/
+.vscode/
+
+# files
+field_scan.jl
+test.jl
